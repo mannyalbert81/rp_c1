@@ -16,8 +16,7 @@
 	     <link href="view/reportes/template/all.min.css" rel="stylesheet">
 		    
 	</head>
- 
- 
+
  <style type="text/css">
     .zoom{
         /* Aumentamos la anchura y altura durante 2 segundos */
