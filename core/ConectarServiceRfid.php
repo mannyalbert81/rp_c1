@@ -19,7 +19,7 @@ class ConectarServiceRfid{
         $this->charset=$db_cfg["charset"];
         $this->port=$db_cfg["port"];
     }
-    
+    //gfdgf
     public function conexion(){
         
         if($this->driver=="pgsql" || $this->driver==null){
